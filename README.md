@@ -1,16 +1,25 @@
 # InsightFlow
 
-Customer Experience & Delivery Analytics Platform built using the Olist Brazilian E-Commerce Dataset.
+## Overview
 
-## Objectives
-
-- Design a relational PostgreSQL database
-- Validate and clean multi-table datasets
-- Perform SQL-based analytics
-- Build Power BI dashboards
-- Create Excel-based business reports
-- Generate actionable customer experience insights
+## Business Problem
 
 ## Dataset
 
-Brazilian E-Commerce Public Dataset by Olist
+## Architecture
+
+## Database Schema
+
+## ETL Pipeline
+
+## Data Validation
+
+## Analytics Layer
+
+## Key Business Insights
+
+## Power BI Dashboard
+
+## Technologies Used
+
+## Future Improvements
