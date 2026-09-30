@@ -99,3 +99,8 @@ CREATE TABLE geolocation (
     geolocation_city VARCHAR(100),
     geolocation_state CHAR(2)
 );
+
+CREATE TABLE category_translation (
+    product_category_name VARCHAR(100) PRIMARY KEY,
+    product_category_name_english VARCHAR(100)
+);
